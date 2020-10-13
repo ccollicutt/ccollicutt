@@ -8,3 +8,4 @@ I've spent a lot of time building infrastructure as a service systems, which alw
 
 * 📧 - [Email](mailto:curtis@serverascode.com)
 * 🐦 - [Twitter](https://twitter.com/ccollicutt)
+* - [Blog](https://serverascode.com)
