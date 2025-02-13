@@ -6,7 +6,4 @@ I've spent a lot of time building infrastructure as a service systems, which alw
 
 ## Contact
 
-* [Email](mailto:curtis@serverascode.com)
-* [Twitter](https://twitter.com/ccollicutt)
-* [Blog](https://collicutt.net)
 * [Technical Blog](https://serverascode.com)
